@@ -1,4 +1,4 @@
-# Urban Scene Reconstruction: Large Scene Reconstruction in Autonomous Driving
+# Urban Scene Reconstruction
 
 <!--
 ![model overview](NeRFwithRealWorld.png)
