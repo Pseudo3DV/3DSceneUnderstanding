@@ -23,3 +23,5 @@ Furthermore, we are currently operating a paper and code review study in [Psuedo
 | 25/02/25 | OT       | ---- | Seongjun Choi |
 | 24/03/04 | [Block NeRF](https://waymo.com/research/block-nerf/), [gridnerf](https://city-super.github.io/gridnerf/), [CityGaussian](https://dekuliutesla.github.io/citygs/) | large scene recon   | All Members |
 | 24/03/11 | [VastGaussian](https://vastgaussian.github.io/), [CityGaussianV2](https://dekuliutesla.github.io/CityGaussianV2/) | large scene recon   | All Members |
+| 24/03/18 | [Hierarchical 3D Gaussians](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians), [Street Gaussians](https://github.com/zju3dv/street_gaussians), [EmerNeRF](https://emernerf.github.io/) | large scene, autonomous driving   | All Members |
+TBD...
