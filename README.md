@@ -5,7 +5,7 @@
 --> 
 
 ## Overall
-This repository focuses on Large Scene Reconstruction in Autonomous Driving. Our group belongs to [Pseudo3DV](https://github.com/Pseudo-Lab/Pseudo3DV).
+This repository focuses on Large Scene Reconstruction in Autonomous Driving. Our group belongs to [Pseudo3DV](https://github.com/Pseudo-Lab/Pseudo3DV). </br>
 This curated collection of resources is related to tackling real-world challenges in autonomous driving perception using NeRF (Neural Radiance Fields) and 3D Gaussian Splatting (3D-GS).
 
 Furthermore, we are currently operating a paper and code review study in [PsuedoLab](https://discord.gg/mNAT2GKM). Go check it out!
