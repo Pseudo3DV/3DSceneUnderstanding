@@ -16,7 +16,7 @@ Furthermore, we are currently operating a paper and code review study in [Psuedo
 **What I cannot create, I do not understand.**
 
 안녕하세요. 저희가 진행할 스터디는 네이버와 같은 기업에서 디지털 트윈을 만들 때 사용되는 3D 재구성 기술인 **Large Scene Reconstruction**들을 살펴보고자 합니다. 기본적인 Large Scene Reconstruction도 일부 다루기는 하나 Autonomous Driving 데이터셋인 nuScenes, kitti 등의 데이터셋을 활용한 Urban Scene Reconstruction 분야를 심도있게 다룰 예정입니다.</br>
-그리고, 관련 논문으로는 하기의 **Schedule**을 참고해주시고, **논문은 년도별로 순차적으로 읽으며,스터디장이 매주 스터디 진행한 당일에 다음 주에 읽고 발표햘 논문에 대해서 정해줍니다.** (스터디원이 관심있으신 논문과 발표하고 싶은 논문이 있으시면 미리 말씀주시면 반영하겠습니다.)
+그리고, 관련 논문으로는 하기의 **Schedule**을 참고해주시고, **논문은 년도별로 순차적으로 읽으며,스터디장이 매주 스터디 진행한 당일에 다음 주에 읽고 발표할 논문에 대해서 정해줍니다. 매주 3편의 논문 및 관련 중요한 코드를 리뷰하는 형식으로 진행하며, 모든 러너분들이 격주로 발표를 진행하게 됩니다.** (스터디원이 관심있으신 논문과 발표하고 싶은 논문이 있으시면 미리 말씀주시면 반영하겠습니다.)
 이전 스터디 [링크](https://github.com/Pseudo-Lab/NeRFwithRealWorld)를 참고하시면 감사하겠습니다.
 
 저희 **스터디는 밀도 있고, 심도 있는 이해를 목표**로 진행할 예정입니다. 
@@ -57,8 +57,11 @@ ${\textsf{\color{red}*  캠(CAM)을 필수로 켜야 합니다.}}$
 
 | Date | Paper | Task | Speaker |
 | -------- | -------- | ---- | ---- |
-| 25/02/25 | OT       | ---- | Seongjun Choi |
-| 24/03/04 | [Block NeRF](https://waymo.com/research/block-nerf/), [gridnerf](https://city-super.github.io/gridnerf/), [CityGaussian](https://dekuliutesla.github.io/citygs/) | large scene recon   | All Members |
-| 24/03/11 | [VastGaussian](https://vastgaussian.github.io/), [CityGaussianV2](https://dekuliutesla.github.io/CityGaussianV2/) | large scene recon   | All Members |
-| 24/03/18 | [Hierarchical 3D Gaussians](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians), [Street Gaussians](https://github.com/zju3dv/street_gaussians), [EmerNeRF](https://emernerf.github.io/) | large scene, autonomous driving   | All Members |
+| 25/03/11 | OT       | ---- | Seongjun Choi |
+| 24/03/18 | [Block NeRF](https://waymo.com/research/block-nerf/), [gridnerf](https://city-super.github.io/gridnerf/), [CityGaussian](https://dekuliutesla.github.io/citygs/) | large scene recon   | All Members |
+| 24/03/25 | [VastGaussian](https://vastgaussian.github.io/), [CityGaussianV2](https://dekuliutesla.github.io/CityGaussianV2/) | large scene recon   | All Members |
+| 24/04/01 | [Hierarchical 3D Gaussians](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians), [Street Gaussians](https://github.com/zju3dv/street_gaussians), [EmerNeRF](https://emernerf.github.io/) | large scene, autonomous driving   | All Members |
+| 24/04/08 | [HUGS](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_HUGS_Holistic_Urban_3D_Scene_Understanding_via_Gaussian_Splatting_CVPR_2024_paper.pdf), [DrivingGaussian](https://pkuvdig.github.io/DrivingGaussian/), [ULSR-GS](https://ulsrgs.github.io)   | All Members |
+| 24/04/15 | [DC-Gaussian](https://arxiv.org/abs/2405.17705), [OmniRe](https://ziyc.github.io/omnire/), [STORM](https://jiawei-yang.github.io/STORM/) | large scene, autonomous driving   | All Members |
+| 24/04/29 | [Urban4D](https://arxiv.org/abs/2412.03473) | large scene, autonomous driving   | All Members |
 TBD...
