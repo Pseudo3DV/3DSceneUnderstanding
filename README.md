@@ -15,8 +15,8 @@ Furthermore, we are currently operating a paper and code review study in [Psuedo
 **"리처드 파인만(Feynman)"**
 **What I cannot create, I do not understand.**
 
-안녕하세요. 저희가 진행할 스터디는 네이버와 같은 기업에서 디지털 트윈을 만들 때 사용되는 3D 재구성 기술인 **Large Scene Reconstruction**들을 살펴보고자 합니다. 기본적인 Large Scene Reconstruction도 일부 다루기는 하나 Autonomous Driving 데이터셋인 nuScenes, kitti 등의 데이터셋을 활용한 Urban Scene Reconstruction 분야를 심도있게 다룰 예정입니다.
-그리고, 관련 논문으로는 하시의 Schedule을 참고해주시고, **논문은 년도별로 순차적으로 읽으며,스터디장이 매주 스터디 진행한 당일에 다음 주에 읽고 발표햘 논문에 대해서 정해줍니다.** (스터디원이 관심있으신 논문과 발표하고 싶은 논문이 있으시면 미리 말씀주시면 반영하겠습니다.)
+안녕하세요. 저희가 진행할 스터디는 네이버와 같은 기업에서 디지털 트윈을 만들 때 사용되는 3D 재구성 기술인 **Large Scene Reconstruction**들을 살펴보고자 합니다. 기본적인 Large Scene Reconstruction도 일부 다루기는 하나 Autonomous Driving 데이터셋인 nuScenes, kitti 등의 데이터셋을 활용한 Urban Scene Reconstruction 분야를 심도있게 다룰 예정입니다.</br>
+그리고, 관련 논문으로는 하기의 **Schedule**을 참고해주시고, **논문은 년도별로 순차적으로 읽으며,스터디장이 매주 스터디 진행한 당일에 다음 주에 읽고 발표햘 논문에 대해서 정해줍니다.** (스터디원이 관심있으신 논문과 발표하고 싶은 논문이 있으시면 미리 말씀주시면 반영하겠습니다.)
 이전 스터디 [링크](https://github.com/Pseudo-Lab/NeRFwithRealWorld)를 참고하시면 감사하겠습니다.
 
 저희 **스터디는 밀도 있고, 심도 있는 이해를 목표**로 진행할 예정입니다. 
@@ -35,7 +35,7 @@ ${\textsf{\color{red}*  캠(CAM)을 필수로 켜야 합니다.}}$
 **매주 2명씩 논문과 코드를 PPT에 반드시 첨부하여..! 발표를 진행합니다.**
 
 **모집 인원**
-- 1-3명 (현재 지속적으로 진행중인 스터디원이 4명이 추가적으로 있습니다.)
+- 4-5명 (현재 이전기수로부터 진행중인 스터디원이 2명이 추가적으로 있습니다.)
 
 **주의사항**
   - 발표 시 PPT를 활용해야합니다. (청중이 이해할 수 있도록 준비해주셔야 합니다.)  (경고 2회 시 제명)
