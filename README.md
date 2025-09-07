@@ -49,9 +49,9 @@ ${\textsf{\color{red}*  캠(CAM)을 필수로 켜야 합니다.}}$
 
 
 ## Team member
-- _Seongjun Choi_ | [Github](https://github.com/DrawingProcess) | [LinkedIn](https://www.linkedin.com/in/seongjun-choi-60b718205/) |
+- _Seongjun Choi_ | [Contact](sjchoi.dp@gmail.com) | [Github](https://github.com/DrawingProcess) | [LinkedIn](https://www.linkedin.com/in/seongjun-choi-60b718205/) |
+- _Sejun Hong_ | [Github](https://github.com/SEJUNHONG) | [LinkedIn](https://www.linkedin.com/in/sejun-hong-073758289/) |
 - _Wongi Park_ | [Github](https://github.com/kalelpark) | [LinkedIn](https://www.linkedin.com/in/wongipark/) |
-- _Minsol Kim_ | [Github](https://github.com/kim-minsol) |
 
 ## Schedule
 
@@ -63,5 +63,7 @@ ${\textsf{\color{red}*  캠(CAM)을 필수로 켜야 합니다.}}$
 | 24/04/01 | [Hierarchical 3D Gaussians](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians), [Street Gaussians](https://github.com/zju3dv/street_gaussians), [EmerNeRF](https://emernerf.github.io/) | large scene, autonomous driving   | All Members |
 | 24/04/08 | [HUGS](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_HUGS_Holistic_Urban_3D_Scene_Understanding_via_Gaussian_Splatting_CVPR_2024_paper.pdf), [DrivingGaussian](https://pkuvdig.github.io/DrivingGaussian/), [ULSR-GS](https://ulsrgs.github.io)   | All Members |
 | 24/04/15 | [DC-Gaussian](https://arxiv.org/abs/2405.17705), [OmniRe](https://ziyc.github.io/omnire/), [STORM](https://jiawei-yang.github.io/STORM/) | large scene, autonomous driving   | All Members |
-| 24/04/29 | [Urban4D](https://arxiv.org/abs/2412.03473) | large scene, autonomous driving   | All Members |
-TBD...
+| 24/04/29 | [Urban4D](https://arxiv.org/abs/2412.03473), [StreetUnveiler](https://streetunveiler.github.io/) | large scene, autonomous driving   | All Members |
+| 24/05/13 | [Urban4D](https://arxiv.org/abs/2412.03473), [StreetUnveiler](https://streetunveiler.github.io/) | large scene, autonomous driving   | All Members |
+| 24/05/27 | [SGD](https://arxiv.org/abs/2403.20079), [STORM](https://jiawei-yang.github.io/STORM/) | large scene, autonomous driving   | All Members |
+| 24/06/17 | [ReconDreamer](https://arxiv.org/pdf/2411.19548), [DriveDreamer4D](https://arxiv.org/pdf/2410.13571) | large scene, autonomous driving   | All Members |
