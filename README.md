@@ -53,6 +53,7 @@ ${\textsf{\color{red}*  캠(CAM)을 필수로 켜야 합니다.}}$
 - _Jihyeong Yoo_ | [Contact](jihyeongyoo566@gmail.com) | [Github](https://github.com/Shhyea) | [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%ED%98%95-%EC%9C%A0-99b701326/)
 - _Youngseo Chang_ | [Contact](jysjis7@gmail.com) | [Github](https://github.com/j-ys) | [LinkedIn](https://www.linkedin.com/in/youngseo-chang-b7552b26b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - _Seokhyun Kim_ | [Contact](k0104912@gmail.com) | [Github](https://github.com/kimsuckhyun) | [LinkedIn](www.linkedin.com/in/kimseokhyun02)
+- _Yunkyu Choi_ | [Contact](ckyun777@gmail.com) | [Github](https://github.com/ckyun777) | [LinkedIn](https://www.linkedin.com/in/yunkyu-choi-7a838649)
 
 ## Schedule
 
