@@ -59,7 +59,8 @@ ${\textsf{\color{red}*  캠(CAM)을 필수로 켜야 합니다.}}$
 | Date | Paper | Task | Speaker |
 | -------- | -------- | ---- | ---- |
 | 25/09/09 | OT       | ---- | Seongjun Choi |
-| 25/09/23 | [Survey 3DGS](https://arxiv.org/abs/2401.03890), [Survey 3DGS in Robotics](https://arxiv.org/abs/2410.12262) | large scene recon   | All Members |
+| 25/09/16 | [Survey 3DGS](https://arxiv.org/abs/2401.03890), [Survey 3DGS in Robotics](https://arxiv.org/abs/2410.12262) | basic study  | All Members |
+| 25/09/23 | [Survey 3DGS](https://arxiv.org/abs/2401.03890), [Survey 3DGS in Robotics](https://arxiv.org/abs/2410.12262) | Survey on each domain | All Members |
 | 25/10/14 | TBD... |
 | 25/10/28 | TBD... |
 | 25/11/11 | TBD... |
